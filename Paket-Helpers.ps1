@@ -1,23 +1,23 @@
 
 <#PSScriptInfo
 
-.VERSION 1.0
+.VERSION 1.0.1
 
 .GUID de966cbe-e588-474c-a81f-9ea5b979f65a
 
-.AUTHOR iguatemi@gmail.com
+.AUTHOR Iguatemi Garin <iguatemi@gmail.com>
 
 .COMPANYNAME 
 
 .COPYRIGHT 
 
-.TAGS 
+.TAGS Paket Package Manager NuGet
 
-.LICENSEURI 
+.LICENSEURI  http://unlicense.org/UNLICENSE
 
-.PROJECTURI 
+.PROJECTURI https://github.com/iguatemigarin/Paket-Helpers
 
-.ICONURI 
+.ICONURI https://fsprojects.github.io/Paket/img/logo.png
 
 .EXTERNALMODULEDEPENDENCIES 
 
@@ -25,8 +25,7 @@
 
 .EXTERNALSCRIPTDEPENDENCIES 
 
-.RELEASENOTES
-
+.RELEASENOTES Functions to install and run Paket in a simple manner.
 
 #>
 
