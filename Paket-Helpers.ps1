@@ -25,7 +25,7 @@
 
 .EXTERNALSCRIPTDEPENDENCIES 
 
-.RELEASENOTES Functions to install and run Paket in a simple manner.
+.RELEASENOTES Install-Script -Name Paket-Helpers ; Add-Content $PROFILE "`n. Paket-Helpers.ps1`n" ; . Paket-Helpers.ps1
 
 #>
 
