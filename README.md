@@ -2,7 +2,13 @@
 
 ## Installation
 
+Admin
+
     PS> Install-Script -Name Paket-Helpers ; Add-Content $PROFILE "`n. Paket-Helpers.ps1`n" ; . Paket-Helpers.ps1
+
+Current User
+    
+    PS> Install-Script -Name Paket-Helpers -Scope CurrentUser; Add-Content $PROFILE "`n. Paket-Helpers.ps1`n" ; . Paket-Helpers.ps1
 
 ## Commands
 
