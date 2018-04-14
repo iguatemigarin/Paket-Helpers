@@ -2,7 +2,7 @@
 
 ## Installation
 
-    PS> Install-Script -Name Paket-Helpers
+    PS> Install-Script -Name Paket-Helpers ; Add-Content $PROFILE "`n. Paket-Helpers.ps1`n"
 
 ## Commands
 
